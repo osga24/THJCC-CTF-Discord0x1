@@ -1,1 +1,1 @@
-# THJCC-CTF-Discord0x1
+# thjcc-bot
